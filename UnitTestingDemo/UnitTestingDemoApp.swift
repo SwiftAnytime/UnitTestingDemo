@@ -11,7 +11,7 @@ import SwiftUI
 struct UnitTestingDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TodoView()
         }
     }
 }
